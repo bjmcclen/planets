@@ -1,1 +1,2 @@
-mars is red. It is kind of rocky and dry.
+mars is red. It is kind of rocky.
+But it is really dry
